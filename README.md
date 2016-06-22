@@ -1,6 +1,6 @@
 # Image-Processing-LMT
 Logiciel de traitement d'images.
-Il s'agit là d'une application qui permet de réaliser les différentes opérations standard de traitement d'images du plus simple au moins évident à savoir :
+Il s'agit là d'une application developpée en java qui permet de réaliser les différentes opérations standard de traitement d'images du plus simple au moins évident à savoir :
  - l'inversion d'une image
  - la rotation 
  - le flip
