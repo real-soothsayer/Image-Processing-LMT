@@ -1,0 +1,17 @@
+image
+image1.PNG
+Lorsque vous demarrez, entrez d'abord vos parametres dans le panneau en haut à droite
+choisissez une image si vous voulez que les sous menus vous affichent les traitements relatifs à une seule image (inversion, convolution, filtre, ...)
+choisissez deux images si vous voulez que les sous menus vous affichent les traitements relatifs à deux images (addition et soustraction)
+choisissez ensuite le type de l'image. Si par exemple vous prenez "Image binaire", vous activez dans les sous menus les operation morphologiques
+---
+image
+image2.PNG
+vous pouvez zoomer en cliquant sur l'une des deux icones ci-dessous ou en allant dans le menu Edition
+---
+accedez à tout moment à l'aide en cliquant sur le menu aide
+---
+cliquer sur la zone d'image A ou B pour charger l'image, ou allez dans le menu fichier > charger
+cliquer sur la zone d'image finale pour enregistrer l'image au format PGM
+l'application gère uniquement les images pgm
+---
